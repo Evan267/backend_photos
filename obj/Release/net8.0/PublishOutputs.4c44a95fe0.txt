@@ -1,0 +1,12 @@
+/home/eberger/webdev/photos/backend/src/out/ApiPhotos
+/home/eberger/webdev/photos/backend/src/out/appsettings.Development.json
+/home/eberger/webdev/photos/backend/src/out/appsettings.json
+/home/eberger/webdev/photos/backend/src/out/ApiPhotos.dll
+/home/eberger/webdev/photos/backend/src/out/ApiPhotos.deps.json
+/home/eberger/webdev/photos/backend/src/out/ApiPhotos.runtimeconfig.json
+/home/eberger/webdev/photos/backend/src/out/ApiPhotos.pdb
+/home/eberger/webdev/photos/backend/src/out/Microsoft.AspNetCore.OpenApi.dll
+/home/eberger/webdev/photos/backend/src/out/Microsoft.OpenApi.dll
+/home/eberger/webdev/photos/backend/src/out/Swashbuckle.AspNetCore.Swagger.dll
+/home/eberger/webdev/photos/backend/src/out/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/eberger/webdev/photos/backend/src/out/Swashbuckle.AspNetCore.SwaggerUI.dll
